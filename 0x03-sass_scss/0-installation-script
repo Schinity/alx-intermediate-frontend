@@ -1,0 +1,11 @@
+Created 0x03-sass_scss directory
+
+Installed Node.js using NVM (version 20.16)
+Command used:
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+Installed SASS globally using:
+npm install -g sass
+
+Verified installation:
+sass --version
