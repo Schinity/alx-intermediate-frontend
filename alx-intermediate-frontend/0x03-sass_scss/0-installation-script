@@ -1,0 +1,10 @@
+# 0-installation-script
+
+Created 0x03-sass_scss directory
+
+Installed Node.js using nvm (version 20.16)
+
+Attempted to install sass@3.7.4 as per ALX instruction, but version not found
+
+Installed latest SASS version using:
+npm install sass
