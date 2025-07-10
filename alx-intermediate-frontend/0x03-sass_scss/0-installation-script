@@ -1,0 +1,17 @@
+Created directory: 0x03-sass_scss
+
+Installed Node.js using NVM:
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+Reopened terminal and installed Node v20.16:
+nvm install 20.16
+
+Attempted to install SASS version 3.7.4:
+npm install sass -v 3.7.4
+→ Error occurred: version not available
+
+Resolved by installing latest SASS globally:
+npm install -g sass
+
+Verified installation:
+sass --version
